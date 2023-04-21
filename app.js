@@ -3,8 +3,8 @@ const teams = [
   { name: "Государственные перфекционисты", link: "https://vk.me/join/vyfPk6Q1apqAcEeXZCxMJtgCvsIrIyhHwDg=" },
   { name: "Департамент дел и докладов", link: "https://vk.me/join/CCeLXOLzHkpVbFfk_ZXxQvB_KL/o95OKSPU=" },
   { name: "Казначеи и казначейства", link: "https://vk.me/join/nsXNnkIuDe8kadzh8UaHH3iTMPxmcmGTDKk=" },
-  { name: "государственные шаманы", link: "https://vk.me/join/qFoeCD573IuJXYdVnsL5XGLq2cS4Eq2iDrw=" },
-  { name: "Департамент дерзости и душевности", link: "https://vk.me/join/cEyPtWLhkuaMCzeIKymnTlMkbVW5FV/cPmA=" },
+  { name: "Муниципальные гениальные умы", link: "https://vk.me/join/qFoeCD573IuJXYdVnsL5XGLq2cS4Eq2iDrw=" },
+  { name: "Правительственные знатоки", link: "https://vk.me/join/cEyPtWLhkuaMCzeIKymnTlMkbVW5FV/cPmA=" },
 ];
 
 form.addEventListener('submit', function(event) {
