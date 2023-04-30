@@ -1,10 +1,10 @@
 const form = document.getElementById('form');
 const teams = [
-  { name: "Государственные перфекционисты", link: "https://vk.me/join/vyfPk6Q1apqAcEeXZCxMJtgCvsIrIyhHwDg=" },
-  { name: "Департамент дел и докладов", link: "https://vk.me/join/CCeLXOLzHkpVbFfk_ZXxQvB_KL/o95OKSPU=" },
-  { name: "Казначеи и казначейства", link: "https://vk.me/join/nsXNnkIuDe8kadzh8UaHH3iTMPxmcmGTDKk=" },
-  { name: "Муниципальные гениальные умы", link: "https://vk.me/join/qFoeCD573IuJXYdVnsL5XGLq2cS4Eq2iDrw=" },
-  { name: "Правительственные знатоки", link: "https://vk.me/join/cEyPtWLhkuaMCzeIKymnTlMkbVW5FV/cPmA=" },
+  { name: "Государственные перфекционисты", link: "" },
+  { name: "Департамент дел и докладов", link: "" },
+  { name: "Казначеи и казначейства", link: "" },
+  { name: "Муниципальные гениальные умы", link: "" },
+  { name: "Правительственные знатоки", link: "" },
 ];
 
 form.addEventListener('submit', function(event) {
